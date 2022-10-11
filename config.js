@@ -62,12 +62,12 @@ global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada 
 global.nomorbot = '6282144607416' //Nomor Bot
 global.nomorown = '6282144607416' //Nomor Owner
 global.namebot = 'Jega BOT' //Nama Bot
-global.nameown = '𝓧𝓲𝓪𝓸 - 𝓨𝓪𝓷' // Nama Owner
+global.nameown = 'JEGAA - BOT' // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285736178354', '❦ 𝚇 𝚒 𝚊 𝚘 - 𝚈𝚊𝚗? 🎐', true] //Ganti jd nomormu sama Namamu
+  ['6282144607416', '❦ JEGA - BOT? 🎐', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -99,9 +99,9 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 ᴇʟᴀɪɴᴀ 𝙱𝙾𝚃 汉  」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ᴇʟᴀɪɴᴀ - ᴄʜᴀɴ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ ᴇʟᴀɪɴᴀ 𝙱𝙾𝚃'
+global.wm = '                「 JEGA BOT 汉  」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘jega - BOT˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ JEGA BOT'
 global.botdate = `⫹⫺ 𝗛𝗮𝗿𝗶: ${week} ${date}`
 global.bottime = `𝗪𝗮𝗸𝘁𝘂 : ${wktuwib}`
 global.titlebot = '🎋 ┊ 𝗥𝗣𝗚 ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
